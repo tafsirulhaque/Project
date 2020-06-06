@@ -1,0 +1,59 @@
+.headr{
+	min-height: 50px;
+	background-color: #E05069;
+}
+.logo{
+	width: 20%;
+	float: left;
+	margin: 15px 10px;
+	font-size: 20px;
+	text-transform: uppercase;
+	color: blue;
+}
+.logo a{
+	text-decoration: none;
+}
+.menuitem{
+	width: 26%;
+	float: right;
+
+}
+.menuitem li{
+	float: left;
+	list-style: none;
+	margin-left:10px;
+	text-transform: capitalize;
+	color: #fff;		
+}
+.menuitem li a{
+	text-decoration: none;
+}
+.contact h1{
+	text-align: center;
+	text-transform: capitalize;
+	color:#E05069; 
+}
+.contact input {
+	height: 30px;
+	width: 80%;
+	margin:7px 100px;
+
+}
+.gender {
+	margin-bottom: 50px;
+	margin-left: 96px;
+	text-transform: capitalize;
+
+}
+.login input{
+	background-color: #E05069; 
+	
+}
+footer{
+    padding: 50px 0px;
+	background-color: #E05069; 
+	text-align: center;
+	text-transform: capitalize;
+	color: #fff;
+}
+ 
